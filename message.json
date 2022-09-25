@@ -1,0 +1,36 @@
+{
+  "_sca": {
+    "_type": { "_type": 1, "_plan": 1 },
+    "_size": 7,
+    "_phone": "99365999996",
+    "_encoded": "99365999996",
+    "_isAddress": false
+  },
+  "_type": { "_rp": 0, "_udhi": 0, "_srr": 0, "_rd": 1, "_mti": 2, "_vpf": 0 },
+  "_pid": { "_pid": 0, "_indicates": 0, "_type": 0 },
+  "_dcs": {
+    "_encodeGroup": 0,
+    "_dataEncoding": 0,
+    "_compressedText": false,
+    "_alphabet": 0,
+    "_useMessageClass": false,
+    "_classMessage": 0,
+    "_discardMessage": false,
+    "_storeMessage": false,
+    "_storeMessageUCS2": false,
+    "_dataCodingAndMessageClass": false,
+    "_messageIndication": false,
+    "_messageIndicationType": false
+  },
+  "_reference": 0,
+  "_address": {
+    "_type": { "_type": 1, "_plan": 1 },
+    "_size": 11,
+    "_phone": "99364530230",
+    "_encoded": "99364530230",
+    "_isAddress": true
+  },
+  "_timestamp": { "_time": 1648041079, "_tzOff": 300 },
+  "_discharge": { "_time": 1648041093, "_tzOff": 300 },
+  "_status": 0
+}
